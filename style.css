@@ -1,0 +1,11 @@
+.links:hover {
+    background-color: dodgerblue;
+
+}
+
+body{
+    background-color: black
+}
+html {
+    scroll-behavior: smooth;
+}
